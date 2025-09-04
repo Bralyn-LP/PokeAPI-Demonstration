@@ -1,4 +1,4 @@
-![https://raw.githubusercontent.com/PokeAPI/media/master/logo/pokeapi_256.png](https://pokeapi.co)
+<img width="257" height="103" alt="image" src="https://github.com/user-attachments/assets/1717b00f-7e35-468d-83d2-49f8c61e4595" />
 
 # PokeAPI-Demonstration
 
